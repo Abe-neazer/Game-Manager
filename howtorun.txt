@@ -1,0 +1,6 @@
+------------------------
+HOW TO COMPILE AND RUN
+------------------------
+g++ -Wall -Werror -Wpedantic -std=c++17 Game.cpp GameDriver.cpp Entity.cpp Map.cpp -o GameDriver 
+Run: ./GameDriver
+
